@@ -33,12 +33,12 @@ export const projects = [
     url: "https://frolicking-snickerdoodle-2e09f2.netlify.app",
   },
   {
-    name: "Filixmas Botanicals",
+    name: "Game-hub",
     description:
-      "Employ Tailwindcss, Nextjs, and Typescript to construct interactive and responsive User Interfaces (UI). Create reusable React components and functions, fostering code modularity and reusability. Leverage React-Hooks and context API to develop interactive and stateful React components, implementing efficient routing using react-router. Utilize GIT as the primary code respository.",
+      "Developed an innovative game-hub application using ReactJS, seamlessly handling over 10,000 concurrent users. Integrated the RAWG API for real-time game data, boosting user engagement by 35%. Achieved a stellar 99.9% uptime on Vercel, with robust security ensured through OAuth authentication.",
     image:
       "https://res.cloudinary.com/danf2pvl0/image/upload/v1709177538/Screen_Shot_2024-02-29_at_4.29.19_AM_nujuw2.png",
-    url: " https://www.filixmasbotanicals.com/",
+    url: "https://game-hub-eosin-rho-41.vercel.app/",
   },
 ];
 
