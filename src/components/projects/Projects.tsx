@@ -14,7 +14,7 @@ export const projects = [
       "Closestead is a cutting-edge property management application designed with the latest technologies such as Node.js and React. Tailored to meet the needs of property owners, Closestead streamlines the management process with intuitive features and seamless integration. From efficient tenant communication to comprehensive property oversight, Closestead empowers property owners to effortlessly manage their portfolios and maximize their investments.",
     image:
       "https://res.cloudinary.com/danf2pvl0/image/upload/v1709176441/Screen_Shot_2024-02-29_at_3.18.17_AM_wbnt3w.png",
-    url: "https://rankaque.com",
+    url: "",
   },
   {
     name: "Elegance Art Gallery",
@@ -37,8 +37,10 @@ export const projects = [
     description:
       "Developed an innovative game-hub application using ReactJS, seamlessly handling over 10,000 concurrent users. Integrated the RAWG API for real-time game data, boosting user engagement by 35%. Achieved a stellar 99.9% uptime on Vercel, with robust security ensured through OAuth authentication.",
     image:
-      "https://res.cloudinary.com/danf2pvl0/image/upload/v1709177538/Screen_Shot_2024-02-29_at_4.29.19_AM_nujuw2.png",
-    url: "https://game-hub-eosin-rho-41.vercel.app/",
+      "",
+
+      url: "https://game-hub-eosin-rho-41.vercel.app/",
+
   },
 ];
 
